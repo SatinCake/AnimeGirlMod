@@ -1,6 +1,6 @@
 # Anime Girl Minecraft Mod
 
-![Anime Girl Minecraft Mod](https://jacobwasbeast.net/assets/img/project-02.webp)
+![Anime Girl Minecraft Mod](https://jacobwasbeast.net/assets/img/project-02.png)
 
 A mod that introduces anime girl characters into the Minecraft world, offering a new aesthetic and experience for players.
 
